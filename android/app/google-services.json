@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516526486431",
+    "project_id": "riseup-de213",
+    "storage_bucket": "riseup-de213.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516526486431:android:5c7624eb66d6456e2703aa",
+        "android_client_info": {
+          "package_name": "com.example.rise_up"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgmwCb_R9qkmT3enLrtoMOMpih7ncouTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
